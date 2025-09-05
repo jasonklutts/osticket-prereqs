@@ -111,6 +111,6 @@ HeidiSQL allows database configuration.
 ---
 
 ## Completion
-✅ **osTicket has been successfully installed!**
+**osTicket has been successfully installed!**
 <img width="1600" height="859" alt="Capture 41" src="https://github.com/user-attachments/assets/6858c063-7e82-430c-8cf1-369d35d9f0ba" />
 
